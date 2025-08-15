@@ -1,0 +1,4 @@
+Enoch Kwarteng (ID: 11021284): Score = 95, Grade = A
+Alice Smith (ID: 10123442): Score = 74, Grade = B
+Johnson Appiah (ID: 10238384): Score = 66, Grade = C
+Carol Osei (ID: 10322444): Score = 55, Grade = D
