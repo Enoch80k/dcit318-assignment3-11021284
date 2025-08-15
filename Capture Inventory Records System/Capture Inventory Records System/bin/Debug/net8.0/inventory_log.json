@@ -1,0 +1,146 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Quantity": 10,
+    "DateAdded": "2025-08-13T21:35:48.2240281+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Mouse",
+    "Quantity": 50,
+    "DateAdded": "2025-08-13T21:35:48.2282624+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Keyboard",
+    "Quantity": 25,
+    "DateAdded": "2025-08-13T21:35:48.2282647+00:00"
+  },
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Quantity": 10,
+    "DateAdded": "2025-08-13T21:36:27.4070001+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Mouse",
+    "Quantity": 50,
+    "DateAdded": "2025-08-13T21:36:27.40734+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Keyboard",
+    "Quantity": 25,
+    "DateAdded": "2025-08-13T21:36:27.4073462+00:00"
+  },
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Quantity": 10,
+    "DateAdded": "2025-08-13T21:36:42.7736865+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Mouse",
+    "Quantity": 50,
+    "DateAdded": "2025-08-13T21:36:42.7739136+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Keyboard",
+    "Quantity": 25,
+    "DateAdded": "2025-08-13T21:36:42.7739153+00:00"
+  },
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Quantity": 10,
+    "DateAdded": "2025-08-13T21:36:51.932615+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Mouse",
+    "Quantity": 50,
+    "DateAdded": "2025-08-13T21:36:51.9327905+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Keyboard",
+    "Quantity": 25,
+    "DateAdded": "2025-08-13T21:36:51.9327918+00:00"
+  },
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Quantity": 10,
+    "DateAdded": "2025-08-15T00:57:28.3688946+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Mouse",
+    "Quantity": 50,
+    "DateAdded": "2025-08-15T00:57:28.369073+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Keyboard",
+    "Quantity": 25,
+    "DateAdded": "2025-08-15T00:57:28.3690744+00:00"
+  },
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Quantity": 10,
+    "DateAdded": "2025-08-15T00:57:53.192174+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Mouse",
+    "Quantity": 50,
+    "DateAdded": "2025-08-15T00:57:53.1923589+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Keyboard",
+    "Quantity": 25,
+    "DateAdded": "2025-08-15T00:57:53.1923603+00:00"
+  },
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Quantity": 10,
+    "DateAdded": "2025-08-15T00:58:02.0756759+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Mouse",
+    "Quantity": 50,
+    "DateAdded": "2025-08-15T00:58:02.0758954+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Keyboard",
+    "Quantity": 25,
+    "DateAdded": "2025-08-15T00:58:02.0758967+00:00"
+  },
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Quantity": 10,
+    "DateAdded": "2025-08-15T00:58:07.5429961+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Mouse",
+    "Quantity": 50,
+    "DateAdded": "2025-08-15T00:58:07.543423+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Keyboard",
+    "Quantity": 25,
+    "DateAdded": "2025-08-15T00:58:07.5434254+00:00"
+  }
+]

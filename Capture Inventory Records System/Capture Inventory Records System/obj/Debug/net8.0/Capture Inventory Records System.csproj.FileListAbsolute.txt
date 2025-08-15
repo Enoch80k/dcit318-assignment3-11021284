@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Capture Inventory Records System\Capture Inventory Records System\bin\Debug\net8.0\Capture Inventory Records System.exe
+C:\Users\DELL\source\repos\Capture Inventory Records System\Capture Inventory Records System\bin\Debug\net8.0\Capture Inventory Records System.deps.json
+C:\Users\DELL\source\repos\Capture Inventory Records System\Capture Inventory Records System\bin\Debug\net8.0\Capture Inventory Records System.runtimeconfig.json
+C:\Users\DELL\source\repos\Capture Inventory Records System\Capture Inventory Records System\bin\Debug\net8.0\Capture Inventory Records System.dll
+C:\Users\DELL\source\repos\Capture Inventory Records System\Capture Inventory Records System\bin\Debug\net8.0\Capture Inventory Records System.pdb
+C:\Users\DELL\source\repos\Capture Inventory Records System\Capture Inventory Records System\obj\Debug\net8.0\Capture Inventory Records System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Capture Inventory Records System\Capture Inventory Records System\obj\Debug\net8.0\Capture Inventory Records System.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Capture Inventory Records System\Capture Inventory Records System\obj\Debug\net8.0\Capture Inventory Records System.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Capture Inventory Records System\Capture Inventory Records System\obj\Debug\net8.0\Capture Inventory Records System.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Capture Inventory Records System\Capture Inventory Records System\obj\Debug\net8.0\Capture Inventory Records System.dll
+C:\Users\DELL\source\repos\Capture Inventory Records System\Capture Inventory Records System\obj\Debug\net8.0\refint\Capture Inventory Records System.dll
+C:\Users\DELL\source\repos\Capture Inventory Records System\Capture Inventory Records System\obj\Debug\net8.0\Capture Inventory Records System.pdb
+C:\Users\DELL\source\repos\Capture Inventory Records System\Capture Inventory Records System\obj\Debug\net8.0\Capture Inventory Records System.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Capture Inventory Records System\Capture Inventory Records System\obj\Debug\net8.0\ref\Capture Inventory Records System.dll
