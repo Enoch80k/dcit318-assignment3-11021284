@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Warehouse Inventory Management System\Warehouse Inventory Management System\bin\Debug\net8.0\Warehouse Inventory Management System.exe
+C:\Users\DELL\source\repos\Warehouse Inventory Management System\Warehouse Inventory Management System\bin\Debug\net8.0\Warehouse Inventory Management System.deps.json
+C:\Users\DELL\source\repos\Warehouse Inventory Management System\Warehouse Inventory Management System\bin\Debug\net8.0\Warehouse Inventory Management System.runtimeconfig.json
+C:\Users\DELL\source\repos\Warehouse Inventory Management System\Warehouse Inventory Management System\bin\Debug\net8.0\Warehouse Inventory Management System.dll
+C:\Users\DELL\source\repos\Warehouse Inventory Management System\Warehouse Inventory Management System\bin\Debug\net8.0\Warehouse Inventory Management System.pdb
+C:\Users\DELL\source\repos\Warehouse Inventory Management System\Warehouse Inventory Management System\obj\Debug\net8.0\Warehouse Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Warehouse Inventory Management System\Warehouse Inventory Management System\obj\Debug\net8.0\Warehouse Inventory Management System.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Warehouse Inventory Management System\Warehouse Inventory Management System\obj\Debug\net8.0\Warehouse Inventory Management System.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Warehouse Inventory Management System\Warehouse Inventory Management System\obj\Debug\net8.0\Warehouse Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Warehouse Inventory Management System\Warehouse Inventory Management System\obj\Debug\net8.0\Warehouse Inventory Management System.dll
+C:\Users\DELL\source\repos\Warehouse Inventory Management System\Warehouse Inventory Management System\obj\Debug\net8.0\refint\Warehouse Inventory Management System.dll
+C:\Users\DELL\source\repos\Warehouse Inventory Management System\Warehouse Inventory Management System\obj\Debug\net8.0\Warehouse Inventory Management System.pdb
+C:\Users\DELL\source\repos\Warehouse Inventory Management System\Warehouse Inventory Management System\obj\Debug\net8.0\Warehouse Inventory Management System.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Warehouse Inventory Management System\Warehouse Inventory Management System\obj\Debug\net8.0\ref\Warehouse Inventory Management System.dll
